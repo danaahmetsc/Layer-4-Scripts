@@ -1,0 +1,3 @@
+Docka Ahmetin tüm scriptleri arşiv halinde paylaşılmıştır. Tüm sanal aleme hayırlı olsun...
+
+Script archive leak that most of attack types/methods in a zip file thanks to Docka Ahmet (cow retard) 🐮
